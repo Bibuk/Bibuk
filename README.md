@@ -7,7 +7,7 @@ I'm a beginner developer specializing in **Python** and **Java**. Passionate abo
 ## 🛠️ Skills
 
 - **Languages:** Python, Java
-- **Frameworks:** Django, Flask, Spring Boot
+- **Frameworks:** Django, Fast api, Spring Boot
 - **Databases:** PostgreSQL, MySQL
 - **Tools:** Git, Docker, Postman
 
